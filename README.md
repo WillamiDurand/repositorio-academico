@@ -1,17 +1,38 @@
-# 🎯 Projeto Integrador (PI)
+# 📚 Portfólio Acadêmico — [Seu Nome Completo]
 
-Este diretório reúne todas as etapas do Projeto Integrador, do início ao fim.
+> Curso de Tecnologia | Repositório oficial do Projeto Integrador (PI) e das Unidades Curriculares (UCs)
 
-## Etapas
+Bem-vindo(a) ao meu portfólio acadêmico. Este repositório foi estruturado aplicando conceitos de **Arquitetura da Informação** — veja o detalhamento completo em [`docs/arquitetura-da-informacao.md`](./docs/arquitetura-da-informacao.md).
 
-1. [Contextualização](./01-contextualizacao) — apresentação do problema/tema
-2. [Pesquisa](./02-pesquisa) — levantamento de referências e dados
-3. [Requisitos](./03-requisitos) — levantamento de requisitos da solução
-4. [Arquitetura](./04-arquitetura) — decisões de arquitetura/design da solução
-5. [Desenvolvimento](./05-desenvolvimento) — implementação
-6. [Testes](./06-testes) — validação da solução
-7. [Documentação](./07-documentacao) — documentação final do projeto
-8. [Entrega final](./08-entrega-final) — material de entrega e apresentação
+## 🧭 Navegação
+
+| Seção | O que é | Acesse |
+|---|---|---|
+| 📑 Índice geral | Mapa completo de tudo que existe no repositório | [`INDEX.md`](./INDEX.md) |
+| 🎯 Projeto Integrador | Etapas do PI, da contextualização à entrega final | [`projeto-integrador/`](./projeto-integrador) |
+| 📘 Unidades Curriculares | Atividades por disciplina | [`unidades-curriculares/`](./unidades-curriculares) |
+| 📖 Documentação | Glossário, mapa de conteúdos e arquitetura da informação | [`docs/`](./docs) |
+| 🖼️ Assets | Imagens, diagramas e documentos de apoio | [`assets/`](./assets) |
+
+## 👤 Sobre mim
+
+- **Nome:** [seu nome]
+- **Curso:** Tecnologia em [sua área]
+- **Instituição:** [nome da instituição]
+- **Semestre atual:** [ex: 3º semestre]
+
+## 📘 Unidades Curriculares deste repositório
+
+- [UC01 – Gestão da Informação](./unidades-curriculares/uc01-gestao-da-informacao)
+- [UC02 – Inteligência Artificial](./unidades-curriculares/uc02-inteligencia-artificial)
+- [UC03 – Verificação e Validação de Software](./unidades-curriculares/uc03-verificacao-e-validacao-de-software)
+- [UC04 – Unidade de Extensão: Full Stack](./unidades-curriculares/uc04-extensao-full-stack)
+
+## 🎯 Projeto Integrador
+
+Acompanhe o PI etapa por etapa em [`projeto-integrador/README.md`](./projeto-integrador/README.md).
 
 ---
-⬅️ [Voltar ao README principal](../README.md)
+
+📄 Licença: [MIT](./LICENSE)
+*Última atualização: [data]*
