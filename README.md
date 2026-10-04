@@ -1,4 +1,4 @@
-# 📚 Portfólio Acadêmico — [Seu Nome Completo]
+# 📚 Portfólio Acadêmico — Willami Durand Aragão
 
 > Curso de Tecnologia | Repositório oficial do Projeto Integrador (PI) e das Unidades Curriculares (UCs)
 
@@ -16,10 +16,10 @@ Bem-vindo(a) ao meu portfólio acadêmico. Este repositório foi estruturado apl
 
 ## 👤 Sobre mim
 
-- **Nome:** [seu nome]
-- **Curso:** Tecnologia em [sua área]
-- **Instituição:** [nome da instituição]
-- **Semestre atual:** [ex: 3º semestre]
+- **Nome:** Willami Durand Aragão
+- **Curso:** Tecnologia em Análise e Desenvolvimento de Sistemas
+- **Instituição:** Faculdade Senac Pernambuco
+- **Semestre atual:** 5º período
 
 ## 📘 Unidades Curriculares deste repositório
 
